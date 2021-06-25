@@ -553,7 +553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453645310217671}
   - component: {fileID: 868539013}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CrystalCircle (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +609,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453645402352363}
   - component: {fileID: 873048104}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CrystalCircle (0)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -665,7 +665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453645466807535}
   - component: {fileID: 1060189353}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crystals (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -721,7 +721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453646226891744}
   - component: {fileID: 1738755291}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CrystalCircle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -777,7 +777,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453646683004008}
   - component: {fileID: 906815432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CrystalCircle (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -833,7 +833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6808453647106138647}
   - component: {fileID: 217055037}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CrystalCircle (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -950,6 +950,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586391140481076 stripped
@@ -1027,6 +1031,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -1110,6 +1118,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586391077718604 stripped
@@ -1187,6 +1199,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
@@ -1266,6 +1282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586390804316743 stripped
@@ -1343,6 +1363,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -1426,6 +1450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586390671891881 stripped
@@ -1503,6 +1531,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -1587,6 +1619,10 @@ PrefabInstance:
       value: Diamond_2 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -1668,6 +1704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586390384781615 stripped
@@ -1745,6 +1785,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -1828,6 +1872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586390271218441 stripped
@@ -1906,6 +1954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586390212344199 stripped
@@ -1983,6 +2035,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -2067,6 +2123,10 @@ PrefabInstance:
       value: Diamond_2 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -2149,6 +2209,10 @@ PrefabInstance:
       value: Diamond_2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -2212,7 +2276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 90
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -2229,6 +2293,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2     (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -2317,6 +2385,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389678955474 stripped
@@ -2394,6 +2466,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -2477,6 +2553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389643102452 stripped
@@ -2554,6 +2634,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -2638,6 +2722,10 @@ PrefabInstance:
       value: Diamond_2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -2719,6 +2807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389537297348 stripped
@@ -2796,6 +2888,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
@@ -2875,6 +2971,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389412554398 stripped
@@ -2952,6 +3052,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
@@ -3031,6 +3135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389380001350 stripped
@@ -3109,6 +3217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389317609583 stripped
@@ -3186,6 +3298,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_IsActive
@@ -3269,6 +3385,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond_2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
 --- !u!4 &6482586389260487896 stripped
@@ -3346,6 +3466,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
       propertyPath: m_Name
       value: Diamond_2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca929ac2bf449324282684dd6c1bc8ab, type: 3}
